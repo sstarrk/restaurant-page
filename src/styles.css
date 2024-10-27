@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 35%;
+    padding: 20px;
+}
+
+nav {
+    margin-right: 100px;
+}
+
+button {
+    margin-left: 20px;
+    padding: 10px 15px;
+}
